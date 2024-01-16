@@ -8,7 +8,7 @@ Software developer
 
 * 🌍  I'm based in West Sussex, UK
 * ✉️  You can contact me at [alicia.rodriguez.t@gmail.com](mailto:alicia.rodriguez.t@gmail.com)
-* 🧠  I'm learning Typescript and Angular
+* 🧠  I'm learning about the Cloud and AWS.
 * 🤝  I'm open to collaborating on interesting proyects.
 
 ### Skills
