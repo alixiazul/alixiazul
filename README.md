@@ -34,6 +34,10 @@ Software developer
 |----------|----------|
 | Programming | Python, Bash, SQL |
 | Databases | PostgreSQL |
+| Infrastructure | Terraform, AWS |
+| Data Orchestration | Prefect |
+| Version Control | Git, github |
+| CI/CD | Github actionst |
 
 
 ### Socials
