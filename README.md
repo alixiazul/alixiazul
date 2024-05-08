@@ -1,8 +1,6 @@
 Hi 👋 My name is Alicia Rodríguez
 =================================
 
-Data Engineer
--------------
 Data engineer with a strong purpose of designing data pipelines for impactful results. I like integrating with APIs to ingest data to warehouses and transforming data into actionable insights. With a fire for crafting beautiful, high-performing websites, I combine my technical prowess with a data-driven approach to build user-centric experiences that drive results. Tech enthusiast, upskilling myself to get up to date with new data trending topics.
 
 🌍  Based in West Sussex, UK
@@ -10,8 +8,7 @@ Data engineer with a strong purpose of designing data pipelines for impactful re
 🧠  Learning about the Data Engineering, Cloud and AWS.
 🤝  Open to collaborating on interesting proyects.
 
-### Skills
-
+## Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -27,7 +24,7 @@ Data engineer with a strong purpose of designing data pipelines for impactful re
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-### Technologies and tools
+## Technologies and tools
 
 | Category | Tools    |
 |----------|----------|
