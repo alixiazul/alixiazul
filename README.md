@@ -5,7 +5,7 @@ Data engineer with a strong purpose of designing data pipelines for impactful re
 
 * 🌍  Based in West Sussex, UK
 * ✉️  You can contact me at [alicia.rodriguez.t@gmail.com](mailto:alicia.rodriguez.t@gmail.com)
-* 🧠  Learning about the Data Engineering, Cloud and AWS.
+* 🧠  Learning about Data Engineering, Cloud and AWS.
 * 🤝  Open to collaborating on interesting proyects.
 
 ## Skills
