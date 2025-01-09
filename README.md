@@ -3,10 +3,11 @@ Hi 👋 My name is Alicia Rodríguez
 
 Data engineer with a strong purpose of designing data pipelines for impactful results. I like integrating with APIs to ingest data to warehouses and transforming data into actionable insights. With a fire for crafting beautiful, high-performing websites, I combine my technical prowess with a data-driven approach to build user-centric experiences that drive results. Tech enthusiast, upskilling myself to get up to date with new data trending topics.
 
-* 🌍  Based in West Sussex, UK
-* ✉️  You can contact me at [alicia.rodriguez.t@gmail.com](mailto:alicia.rodriguez.t@gmail.com)
-* 🧠  Learning about Data Engineering, Cloud and AWS.
-* 🤝  Open to collaborating on interesting proyects.
+🌍  Based in West Sussex, UK <br/>
+✉️  You can contact me at [alicia.rodriguez.t@gmail.com](mailto:alicia.rodriguez.t@gmail.com) <br/>
+🧠  Learning about Data Engineering, Cloud and AWS. <br/>
+🤝  Open to collaborating on interesting proyects. <br/>
+🔗  LinkedIn: [aliciarodriguezt](https://www.linkedin.com/in/aliciarodriguezt/) <br/>
 
 ## Skills
 
